@@ -1,0 +1,59 @@
+/*row css*/
+
+.row1 {
+    border-radius: 10px;
+    border: 1px solid gray;
+    width: 242px;
+    height: 220px;
+    margin-top: 14px;
+    margin-right: 14px;
+}
+
+.row1 p {
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+/*horizontal line*/
+
+hr {
+    border-top: 1px solid black;
+}
+
+
+/*button css*/
+
+.btn {
+    margin-right: 120px;
+    margin-top: 20px;
+}
+
+
+/*footer css*/
+
+.footer p {
+    display: inline-block;
+    margin-left: 25px;
+    margin-top: 15px;
+}
+
+.footer {
+    margin-top: 20px;
+}
+
+
+/*box shadow css*/
+
+.shadow-outside {
+    box-shadow: 4px 4px 6px 4px #999;
+}
+
+
+/*search box*/
+
+input[type=search] {
+    border: none;
+    background: none;
+    border-bottom: 3px solid black;
+}
